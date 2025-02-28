@@ -1,2 +1,4 @@
-# website-kedai-kopi
-Website kedai kopi sederhana
+# Website Kedai Kopi
+## 🔧 Ini projek website sederhana yang saya buat.
+- 🔹 HTML | CSS | JavaScript
+
